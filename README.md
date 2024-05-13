@@ -23,4 +23,4 @@ Welcome to my personal portfolio website repository! This site is a comprehensiv
 
 ## Screenshots
 
-<img src = /Website%2001/assets/projects/Website.png>
+<img src = assets/projects/Website.png>
