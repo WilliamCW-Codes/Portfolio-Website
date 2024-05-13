@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Portfolio Website (Personal)",
+    "imageSrc": "projects/Website.png",
+    "description": "Crafted a dynamic portfolio website highlighting projects and experiences with React, JavaScript, Node.js, HTML, and CSS.",
+    "skills": ["React", "JavaScript", "Node.js", "CSS", "HTML"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/WilliamCW-Codes/Website"
+  },
+  {
+    "title": "MUN Concrete Toboggan",
+    "imageSrc": "projects/headlights.jpg",
+    "description": "Led a team in designing a 3D printed model for toboggan headlights using OnShape. Implemented LED headlights with Arduino, controlling them via a C++ program.",
+    "skills": ["C++", "Arduino", "OnShape", "3D Modeling & Printing"],
+    "demo": "https://www.example.com",
+    "source model": "https://cad.onshape.com/documents/9f15af72e5c0a7ad38808f47/w/faa8b54299342354be1489f0/e/d4f909a20b9561ccfeff64ea?renderMode=0&uiState=663d270a71c6413f75a2a9ba",
+    "source code": "https://github.com/WilliamCW-Codes/TBOG-Headlights"
+  },
+  {
+    "title": "MUN Concrete Toboggan Website",
+    "imageSrc": "projects/tbog.png",
+    "description": "Crafting the MUN Concrete Toboggan website with Astro, TypeScript, and CSS. Seamlessly integrating design and functionality for a dynamic online presence.",
+    "skills": ["Astro", "TypeScript", "CSS", "HTML"],
+    "demo": "https://mun-concrete-toboggan-website.vercel.app",
+    "source": "https://github.com/WilliamCW-Codes/MUN-Concrete-Toboggan-Website"
+  },
+  {
+    "title": "Tetridunio",
+    "imageSrc": "projects/tetris.png",
+    "description": "Developed a Python-based Tetris game integrated with Arduino, showcasing it exclusively in an invite-only event. Presented insights into the project's development process and code logic alongside the final gameplay.",
+    "skills": ["Python", "Arduino"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/WilliamCW-Codes/Tetridunio"
+  },
+  {
+    "title": "Platformer Game (Personal)",
+    "imageSrc": "projects/Platformer Project.jpg",
+    "description": "Created a JavaScript mini-game to enhance programming prowess. Engaged in coding challenges to hone skills while enjoying interactive learning.",
+    "skills": ["JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "AeroEvac",
+    "imageSrc": "projects/Fulling Complete System.png",
+    "description": "Developed AeroEvac model, a pulley system for emergency evacuation, via OnShape. Collaborated on comprehensive project report encompassing cost, safety, and product analysis.",
+    "skills": ["Onhape", "3D Modeling"],
+    "demo": "https://www.example.com",
+    "source model": "https://mun.onshape.com/documents/419f69e7cf6df73f9dcafde6/w/62118811ed2cc3cf59c4b5ae/e/e035e3af7dbbaf9f7ad3dd1f?renderMode=0&uiState=663d27ce10a1bf40795f072e"
+  }
+]

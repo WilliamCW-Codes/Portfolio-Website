@@ -1,0 +1,91 @@
+[
+  {
+    "title": "C++",
+    "imageSrc": "skills/cpp.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/ts.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Astro",
+    "imageSrc": "skills/astro.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Ardunio",
+    "imageSrc": "skills/arduino.png"
+    
+  },
+  {
+    "title": "MATLAB",
+    "imageSrc": "skills/matlab.png"
+  },
+  {
+    "title": "Simulink",
+    "imageSrc": "skills/simulink.png"
+  },
+  {
+    "title": "PSpice",
+    "imageSrc": "skills/pspice.png"
+  },
+  {
+    "title": "OnShape",
+    "imageSrc": "skills/onshape.png"
+  },
+  {
+    "title": "3D Printing",
+    "imageSrc": "skills/3dp.png"
+  },
+  {
+    "title": "Microsoft Suite",
+    "imageSrc": "skills/ms.png"
+  },
+  {
+    "title": "Google Suite",
+    "imageSrc": "skills/google.png"
+  },
+  {
+    "title": "Adobe Suite",
+    "imageSrc": "skills/adobe.png"
+  },
+  {
+    "title": "Canva",
+    "imageSrc": "skills/canva.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Davinci Resolve",
+    "imageSrc": "skills/davinci.png"
+  },
+  {
+    "title": "OBS Studio",
+    "imageSrc": "skills/obs.png"
+  }
+]

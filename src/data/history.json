@@ -1,0 +1,37 @@
+[
+  {
+    "role": "Concrete Toboggan Design Team Member",
+    "organisation": "MUN Conctrete Toboggan",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Designed a model to 3D print for the toboggan headlights cover using OnShape.", 
+      "Implemented L.E.D headlights with an Arduino to connect a power source and switch.",
+      "Wrote a C++ program to control the actions of the switch to turn the light on or off.",
+      "Competed in the Great Northern Concrete Toboggan Race (GNCTR) 2024 and preparing for GNCTR 2025."
+      ],
+    "imageSrc": "history/tbogg.png"
+  },
+  {
+    "role": "MUNStar-1 Student Collaboration Team",
+    "organisation": "MUNStar-1 CubeSat",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Coding part of the CubeSat satellite using PlantUML.", 
+      "Part of the ADCS team."
+    ],
+    "imageSrc": "history/munstar.png"
+  },
+  {
+    "role": "Tutor",
+    "organisation": "St.Kevin's High School",
+    "startDate": "Sept, 2022",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Tailored course information to individual students to help them fill in their knowledge gaps.",
+      "Effectively communicated difficult concepts to students in a productive and patient manner."
+    ],
+    "imageSrc": "history/skh.png"
+  }
+]
