@@ -10,7 +10,7 @@
       "Wrote a C++ program to control the actions of the switch to turn the light on or off.",
       "Competed in the Great Northern Concrete Toboggan Race (GNCTR) 2024 and preparing for GNCTR 2025."
       ],
-    "imageSrc": "src/assets/history/tbogg.png"
+    "imageSrc": "assets/history/tbogg.png"
   },
   {
     "role": "MUNStar-1 Student Collaboration Team",
@@ -21,7 +21,7 @@
       "Coding part of the CubeSat satellite using PlantUML.", 
       "Part of the ADCS team."
     ],
-    "imageSrc": "src/assets/history/munstar.png"
+    "imageSrc": "assets/history/munstar.png"
   },
   {
     "role": "Tutor",
@@ -32,6 +32,6 @@
       "Tailored course information to individual students to help them fill in their knowledge gaps.",
       "Effectively communicated difficult concepts to students in a productive and patient manner."
     ],
-    "imageSrc": "src/assets/history/skh.png"
+    "imageSrc": "assets/history/skh.png"
   }
 ]
