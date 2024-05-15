@@ -65,6 +65,10 @@
     "imageSrc": "skills/figma.png"
   },
   {
+    "title": "Canva",
+    "imageSrc": "skills/canva.png"
+  },
+  {
     "title": "Microsoft Suite",
     "imageSrc": "skills/ms.png"
   },
@@ -75,10 +79,6 @@
   {
     "title": "Adobe Suite",
     "imageSrc": "skills/adobe.png"
-  },
-  {
-    "title": "Canva",
-    "imageSrc": "skills/canva.png"
   },
   {
     "title": "Davinci Resolve",
