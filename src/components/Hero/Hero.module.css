@@ -137,4 +137,9 @@
     width: 70%;
     margin-bottom: 10%;
   }
+
+  .title {
+    font-size: 40px; /* Adjust as needed */
+    width: 100%; /* Adjust as needed */
+  }
 }
