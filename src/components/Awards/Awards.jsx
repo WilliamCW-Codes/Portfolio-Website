@@ -68,6 +68,12 @@ export const Awards = () => {
           <li className={styles.awardsItem}>
             <img src={getImageUrl("awards/aw.png")} alt="MUN logo" />
             <div className={styles.awardsItemText}>
+              <h3>Outstanding Project of ENGI 1020 Award</h3>
+            </div>
+          </li>
+          <li className={styles.awardsItem}>
+            <img src={getImageUrl("awards/aw.png")} alt="MUN logo" />
+            <div className={styles.awardsItemText}>
               <h3>Most Improved Music Award</h3>
               <p>(Grade 12)</p>
             </div>
