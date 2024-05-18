@@ -97,6 +97,7 @@
 
   .awardsItems {
     margin-top: 29px;
+    column-count: 1;
   }
 
   .awardsItem {
