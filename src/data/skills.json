@@ -81,11 +81,11 @@
     "imageSrc": "skills/adobe.png"
   },
   {
-    "title": "DaVinci Resolve",
-    "imageSrc": "skills/davinci.png"
-  },
-  {
     "title": "OBS Studio",
     "imageSrc": "skills/obs.png"
+  },
+  {
+    "title": "DaVinci Resolve",
+    "imageSrc": "skills/davinci.png"
   }
 ]
