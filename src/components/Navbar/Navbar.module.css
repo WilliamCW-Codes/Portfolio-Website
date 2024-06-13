@@ -8,6 +8,7 @@
   padding-top: 61px;
   z-index: 2;
   margin: 0 10%;
+  color: var(--color-text);
 }
 
 .title {
@@ -20,16 +21,19 @@
 
 .menuBtn {
   display: none;
+  color: var(--color-text);
 }
 
 .menu {
   display: flex;
+  color: var(--color-text);
 }
 
 .menuItems {
   display: flex;
   gap: 47px;
   list-style: none;
+  color: var(--color-text);
 }
 
 .menuItems a {
