@@ -48,7 +48,7 @@
 
 @keyframes blink {
   0%, 100% { border-color: transparent; }
-  30% { border-color: rgb(255, 255, 255); }
+  30% { border-color: var(--color-text); }
 }
 
 @keyframes fadeOut {
