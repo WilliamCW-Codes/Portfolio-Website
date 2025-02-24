@@ -1,16 +1,13 @@
-[
+[ 
   {
-    "role": "Concrete Toboggan Design Team Member",
-    "organisation": "MUN Conctrete Toboggan",
-    "startDate": "Sept, 2023",
+    "role": "Computer Engineering Co-op Student",
+    "organisation": "Community Centre Alliance",
+    "startDate": "Jan, 2025",
     "endDate": "Present",
     "experiences": [
-      "Designed a model to 3D print for the toboggan headlights cover using OnShape.", 
-      "Implemented L.E.D headlights with an Arduino to connect a power source and switch.",
-      "Wrote a C++ program to control the actions of the switch to turn the light on or off.",
-      "Competed in the Great Northern Concrete Toboggan Race (GNCTR) 2024 and preparing for GNCTR 2025."
-      ],
-    "imageSrc": "history/tbogg.png"
+      
+    ],
+    "imageSrc": ""
   },
   {
     "role": "MUNStar-1 Student Collaboration Team",
@@ -18,10 +15,49 @@
     "startDate": "Jan, 2024",
     "endDate": "Present",
     "experiences": [
-      "Coding part of the CubeSat satellite using PlantUML.", 
-      "Part of the ADCS team."
+      "CubeSat Satellite Development: Attitude Determination and Control Systems (ADCS) Team Member",
+
+      "System Design & Documentation: Utilized PlantUML to create detailed system diagrams, streamlining the design process for the CubeSat satellite project.",
+
+      "Code Development: Developed and integrated key software sections to support critical satellite functions.",
+
+      "Project Timeline: The CubeSat satellite is slated for launch in 2026/2027."
     ],
     "imageSrc": "history/munstar.png"
+  },
+  {
+    "role": "",
+    "organisation": "MUN Conctrete Toboggan",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "GNCTR 2025: Superstructure & Lighting Systems, Project Coordination",
+
+      "Design Input for Superstructure: Provided conceptual feedback and ideas that helped shape the overall design direction of the superstructure in collaboration with the engineering team.",
+
+      "3D Modeling & Prototyping: Designed a precise, 3D-printable model for the toboggan headlights cover using OnShape, ensuring structural integrity and compatibility with the 3D printing process.",
+
+      "LED Integration & Hardware Implementation: Implemented an LED headlights system by integrating an Arduino to manage connections between the power source and the control switch.",
+
+      "Software Development: Developed a custom C++ program that automates the switching mechanism, enabling reliable on/off control of the LED system.",
+
+      "Project Coordination Support: Assisted with various project coordination tasks, including scheduling events, organizing meetings, and supporting fundraising efforts. Contributed to routine administrative tasks to help maintain smooth project operations.",
+
+      "GNCTR 2024: Lighting Systems & Software",
+
+      "3D Modeling & Prototyping: Designed a precise, 3D-printable model for the toboggan headlights cover using OnShape, ensuring structural integrity and compatibility with the 3D printing process.",
+
+      "LED Integration & Hardware Implementation: Implemented an LED headlights system by integrating an Arduino to manage connections between the power source and the control switch.",
+
+      "Software Development: Developed a custom C++ program that automates the switching mechanism, enabling reliable on/off control of the LED system.",
+
+      "2024 – MUN Concrete Toboggan Website Development",
+
+      "Front-End Development: Building a modern, responsive website for the MUN Concrete Toboggan project using Astro, TypeScript, and CSS. Focused on creating an engaging and informative platform to showcase project details, updates, and team accomplishments.",
+
+      "Live Demonstration - Explore the test version of the website here: https://mun-tbog-website-test2-9c0t3uv3n-concrete-toboggan.vercel.app"
+      ],
+    "imageSrc": "history/tbogg.png"
   },
   {
     "role": "Tutor",
