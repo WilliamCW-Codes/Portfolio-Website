@@ -7,7 +7,7 @@
     "experiences": [
       
     ],
-    "imageSrc": ""
+    "imageSrc": "cca.png"
   },
   {
     "role": "MUNStar-1 Student Collaboration Team",
@@ -26,24 +26,15 @@
     "imageSrc": "history/munstar.png"
   },
   {
-    "role": "",
+    "role": "GNCTR 2025: Superstructure & Lighting Systems, Project Coordination, GNCTR 2024: Lighting Systems & Software",
     "organisation": "MUN Conctrete Toboggan",
     "startDate": "Sept, 2023",
     "endDate": "Present",
     "experiences": [
-      "GNCTR 2025: Superstructure & Lighting Systems, Project Coordination",
-
+    
       "Design Input for Superstructure: Provided conceptual feedback and ideas that helped shape the overall design direction of the superstructure in collaboration with the engineering team.",
 
-      "3D Modeling & Prototyping: Designed a precise, 3D-printable model for the toboggan headlights cover using OnShape, ensuring structural integrity and compatibility with the 3D printing process.",
-
-      "LED Integration & Hardware Implementation: Implemented an LED headlights system by integrating an Arduino to manage connections between the power source and the control switch.",
-
-      "Software Development: Developed a custom C++ program that automates the switching mechanism, enabling reliable on/off control of the LED system.",
-
       "Project Coordination Support: Assisted with various project coordination tasks, including scheduling events, organizing meetings, and supporting fundraising efforts. Contributed to routine administrative tasks to help maintain smooth project operations.",
-
-      "GNCTR 2024: Lighting Systems & Software",
 
       "3D Modeling & Prototyping: Designed a precise, 3D-printable model for the toboggan headlights cover using OnShape, ensuring structural integrity and compatibility with the 3D printing process.",
 
