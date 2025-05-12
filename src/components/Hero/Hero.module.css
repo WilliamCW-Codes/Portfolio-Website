@@ -73,6 +73,21 @@
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 
+.resumeBtn {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-decoration: none;
+  color: white;
+  background-color: var(--color-primary);
+  border-radius: 5px;
+  transition: transform 0.2s ease;
+}
+
+.resumeBtn:hover {
+  transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
 .heroImg {
   width: 50%;
   z-index: 1;

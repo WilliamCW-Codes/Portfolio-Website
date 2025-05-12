@@ -4,8 +4,20 @@
     "imageSrc": "skills/cpp.png"
   },
   {
+    "title": "C",
+    "imageSrc": "skills/C.png"
+  },
+  {
+    "title": "Assembly",
+    "imageSrc": "skills/assembly.png"
+  },
+  {
     "title": "Python",
     "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/Java.png"
   },
   {
     "title": "JavaScript",
@@ -51,6 +63,22 @@
   {
     "title": "PSpice",
     "imageSrc": "skills/pspice.png"
+  },
+  {
+    "title": "KiCad",
+    "imageSrc": "skills/kicad.png"
+  },
+  {
+    "title": "PCB Design",
+    "imageSrc": "skills/board.png"
+  },
+  {
+    "title": "Circuit Design",
+    "imageSrc": "skills/board.png"
+  },
+  {
+    "title": "Soldering",
+    "imageSrc": "skills/soldering.jpg"
   },
   {
     "title": "OnShape",

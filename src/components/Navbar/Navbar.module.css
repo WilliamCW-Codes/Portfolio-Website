@@ -18,6 +18,11 @@
   color: var(--color-text);
 }
 
+.fancyFont {
+  font-family: "Cursive", sans-serif; /* Example font */
+  font-weight: bold; /* Example styling */
+  font-size: 1.5rem; /* Example size */
+}
 
 .menuBtn {
   display: none;
