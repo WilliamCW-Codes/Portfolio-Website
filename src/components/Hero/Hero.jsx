@@ -25,7 +25,7 @@ export const Hero = () => {
           <a href="mailto:ccullwhitten@mun.ca" className={styles.contactBtn}>
             Contact Me
           </a>
-        <button onClick={() => downloadFileAtURL("hero/William_Cull-Whitten_Resume.pdf")}
+        <button onClick={() => downloadFileAtURL(resumeURL)}
             className={styles.resumeBtn}>Download Resume</button>
         </div>
       </div>
