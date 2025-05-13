@@ -5,12 +5,21 @@ import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
   const resumeURL = "hero/WilliamCW_Resume.pdf";
-  const downloadFileAtURL = (url) => {
+  // const downloadFileAtURL = (url) => {
+  //   const aTag = document.createElement("a");
+  //   aTag.href = url;
+  //   aTag.setAttribute("download", "WilliamCW_Resume.pdf");
+  //   document.body.appendChild(aTag);
+  //   aTag.click();
+  //   document.body.removeChild(aTag);
+  // };
+    const downloadFileAtURL = (url) => {
     const aTag = document.createElement("a");
     aTag.href = url;
     aTag.setAttribute("download", "WilliamCW_Resume.pdf");
     document.body.appendChild(aTag);
-    aTag.click();
+    const event = new MouseEvent("click", { bubbles: true, cancelable: true, view: window });
+    aTag.dispatchEvent(event);
     document.body.removeChild(aTag);
   };
   return (
