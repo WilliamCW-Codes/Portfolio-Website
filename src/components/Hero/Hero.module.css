@@ -92,6 +92,12 @@
   transform: scale(1.05); /* Slightly enlarge on hover */
 }
 
+.buttonGroup {
+  display: flex;
+  gap: 15px; /* Space between the buttons */
+  margin-top: 20px; /* Optional: Add spacing above the buttons */
+}
+
 .heroImg {
   width: 50%;
   z-index: 1;
