@@ -16,7 +16,7 @@ export const Hero = () => {
             Contact Me
           </a>
           <button className={styles.resumeBtn}>
-            <a href="assets/hero/William Cull-Whitten Resume.pdf" download target="_blank" rel="noopener noreferrer">
+            <a href="assets/hero/William Cull-Whitten Resume.pdf" downloads='resume'>
               Download Resume
             </a>
           </button>
