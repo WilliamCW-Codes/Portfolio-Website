@@ -95,7 +95,7 @@
 .buttonGroup {
   display: flex;
   gap: 15px; /* Space between the buttons */
-  margin-top: 20px; /* Optional: Add spacing above the buttons */
+  margin-top: 60px; /* Optional: Add spacing above the buttons */
 }
 
 .heroImg {
