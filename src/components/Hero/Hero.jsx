@@ -15,9 +15,14 @@ export const Hero = () => {
           <a href="mailto:ccullwhitten@mun.ca" className={styles.contactBtn}>
             Contact Me
           </a>
-          <a href="assets/hero/William Cull-Whitten Resume.pdf" className={styles.resumeBtn} download target="_blank" rel="noopener noreferrer">
+          <button className={styles.resumeBtn}>
+            <a href="assets/hero/William Cull-Whitten Resume.pdf" download target="_blank" rel="noopener noreferrer">
+              Download Resume
+            </a>
+          </button>
+          {/* <a href="assets/hero/William Cull-Whitten Resume.pdf" className={styles.resumeBtn} download target="_blank" rel="noopener noreferrer">
             Download Resume
-          </a>
+          </a> */}
         </div>
       </div>
       <img
