@@ -6,13 +6,13 @@ import { getImageUrl } from "../../utils";
 const resumeURL = "assets/hero/William Cull-Whitten Resume.pdf";
 
 export const Hero = () => {
-  const downloadFileAtURL= (url) => {
+  const downloadFileAtURL = (url) => {
     const aTag = document.createElement("a");
     aTag.href = url;
     aTag.setAttribute("download", "William Cull-Whitten Resume.pdf");
     document.body.appendChild(aTag);
     aTag.click();
-    aTag.remove();
+    document.body.removeChild(aTag);
   };
   return (
     <section className={styles.container}>
@@ -25,14 +25,8 @@ export const Hero = () => {
           <a href="mailto:ccullwhitten@mun.ca" className={styles.contactBtn}>
             Contact Me
           </a>
-          <button onClick={()=>{downloadFileAtURL(resumeURL)}} className={styles.resumeBtn}>
-            {/* <a href="assets/hero/William Cull-Whitten Resume.pdf" download="resume">
-              Download Resume
-            </a> */}
-          </button>
-          {/* <a href="assets/hero/William Cull-Whitten Resume.pdf" className={styles.resumeBtn} download target="_blank" rel="noopener noreferrer">
-            Download Resume
-          </a> */}
+        <button onClick={() => downloadFileAtURL("/assets/hero/William Cull-Whitten Resume.pdf")}
+            className={styles.resumeBtn}>Download Resume</button>
         </div>
       </div>
       <img
