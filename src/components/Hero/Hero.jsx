@@ -31,7 +31,7 @@ export const Hero = () => {
           I’m a second year Computer Engineering student at Memorial University of Newfoundland (MUN).
         </p>
         <div className={styles.buttonGroup}>
-          <a href="mailto:ccullwhitten@mun.ca" className={styles.contactBtn}>
+          <a href="mailto:ccullwhitten@mun.ca" className={`${styles.contactBtn} ${styles.contactBtnHover}`}>
             Contact Me
           </a>
         <button onClick={() => downloadFileAtURL(resumeURL)}
