@@ -3,9 +3,8 @@ import React from "react";
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
-const resumeURL = "hero/WilliamCW_Resume.pdf";
-
 export const Hero = () => {
+  const resumeURL = "hero/WilliamCW_Resume.pdf";
   const downloadFileAtURL = (url) => {
     const aTag = document.createElement("a");
     aTag.href = url;
