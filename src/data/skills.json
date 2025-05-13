@@ -9,7 +9,7 @@
   },
   {
     "title": "Assembly",
-    "imageSrc": "skills/assembly.png"
+    "imageSrc": "skills/assembly.svg"
   },
   {
     "title": "Python",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Java",
-    "imageSrc": "skills/Java.png"
+    "imageSrc": "skills/java.png"
   },
   {
     "title": "JavaScript",
@@ -78,7 +78,7 @@
   },
   {
     "title": "Soldering",
-    "imageSrc": "skills/soldering.jpg"
+    "imageSrc": "skills/soldering.png"
   },
   {
     "title": "OnShape",
