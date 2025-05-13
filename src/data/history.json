@@ -1,13 +1,31 @@
 [ 
   {
-    "role": "Computer Engineering Co-op Student",
+    "role": "Web Developer and Designer",
     "organisation": "Community Centre Alliance",
-    "startDate": "Jan, 2025",
+    "startDate": "Apr, 2025",
     "endDate": "Present",
     "experiences": [
-      
+      "Overseeing website maintenance, domain transfer/management and DNS configurations for efficient hosting workflows.",
+      "Designing new promotional content to strengthen community engagement and reinforce a consistent brand identity."
     ],
     "imageSrc": "history/cca.png"
+  },
+  {
+    "role": "Web Developement and Design Intern",
+    "organisation": "Community Centre Alliance, Buckmaster's Cirlce Community Centre, Virginia Park Community Centre",
+    "startDate": "Jan, 2025",
+    "endDate": "Apr, 2025",
+    "experiences": [
+      "Developed and launched modern websites across centres, improving UI/UX and reducing development costs by 75%.",
+      "Rebranded organizations with new logos and business cards, modernizing public image and cutting design costs by 52%.",
+      "Created promotional materials that increased community engagement by 35% and supported program visibility.",
+      "Authored a seniors' support manual for New Horizons and provided daily IT support, reducing downtime by 73%."
+    ],
+    "imageSrc": [
+      "history/cca.png",
+      "history/bmcc.png",
+      "history/vp.png"
+    ]
   },
   {
     "role": "MUNStar-1 Student Collaboration Team",
@@ -15,13 +33,7 @@
     "startDate": "Jan, 2024",
     "endDate": "Present",
     "experiences": [
-      "CubeSat Satellite Development: Attitude Determination and Control Systems (ADCS) Team Member",
-
-      "System Design & Documentation: Utilized PlantUML to create detailed system diagrams, streamlining the design process for the CubeSat satellite project.",
-
-      "Code Development: Developed and integrated key software sections to support critical satellite functions.",
-
-      "Project Timeline: The CubeSat satellite is slated for launch in 2026/2027."
+      "Designing and coding critical ADCS logic using PlantUML, supporting system architecture and integration of the satellite’s core control system responsible for orientation and mission stability. Scheduled launch: 2026/2027."
     ],
     "imageSrc": "history/munstar.png"
   },
@@ -31,22 +43,8 @@
     "startDate": "Sept, 2023",
     "endDate": "Present",
     "experiences": [
-    
-      "Design Input for Superstructure: Provided conceptual feedback and ideas that helped shape the overall design direction of the superstructure in collaboration with the engineering team.",
-
-      "Project Coordination Support: Assisted with various project coordination tasks, including scheduling events, organizing meetings, and supporting fundraising efforts. Contributed to routine administrative tasks to help maintain smooth project operations.",
-
-      "3D Modeling & Prototyping: Designed a precise, 3D-printable model for the toboggan headlights cover using OnShape, ensuring structural integrity and compatibility with the 3D printing process.",
-
-      "LED Integration & Hardware Implementation: Implemented an LED headlights system by integrating an Arduino to manage connections between the power source and the control switch.",
-
-      "Software Development: Developed a custom C++ program that automates the switching mechanism, enabling reliable on/off control of the LED system.",
-
-      "2024 – MUN Concrete Toboggan Website Development",
-
-      "Front-End Development: Building a modern, responsive website for the MUN Concrete Toboggan project using Astro, TypeScript, and CSS. Focused on creating an engaging and informative platform to showcase project details, updates, and team accomplishments.",
-
-      "Live Demonstration - Explore the test version of the website here: https://mun-tbog-website-test2-9c0t3uv3n-concrete-toboggan.vercel.app"
+      "Engineered and integrated Arduino-controlled LED headlights with 3D-printed housing, battery mount/housing, themed prizes, and a ring toss game using CAD.",
+      "Developing a team website using Astro, TypeScript, and CSS to highlight competition information and progress updates."
       ],
     "imageSrc": "history/tbogg.png"
   },

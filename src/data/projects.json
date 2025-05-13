@@ -2,7 +2,7 @@
   {
     "title": "Portfolio Website (Personal)",
     "imageSrc": "projects/Website.png",
-    "description": "Crafted a dynamic portfolio website highlighting projects and experiences with React, JavaScript, Node.js, HTML, and CSS.",
+    "description": "Developed a personal portfolio using React, Node.js, and CSS to showcase projects and technical experience.",
     "skills": ["React", "JavaScript", "Node.js", "CSS", "HTML"],
     "demo": "https://www.example.com",
     "source": "https://github.com/WilliamCW-Codes/Website"
@@ -19,7 +19,7 @@
   {
     "title": "MUN Concrete Toboggan Website",
     "imageSrc": "projects/tbog.png",
-    "description": "Crafting the MUN Concrete Toboggan website with Astro, TypeScript, and CSS. Seamlessly integrating design and functionality for a dynamic online presence.",
+    "description": "Developing a team website using Astro, TypeScript, and CSS to highlight competition information and progress updates.",
     "skills": ["Astro", "TypeScript", "CSS", "HTML"],
     "demo": "https://mun-concrete-toboggan-website.vercel.app",
     "source": "https://github.com/WilliamCW-Codes/MUN-Concrete-Toboggan-Website"
@@ -27,7 +27,7 @@
   {
     "title": "Tetridunio",
     "imageSrc": "projects/tetris.png",
-    "description": "Developed a Python-based Tetris game integrated with Arduino, showcasing it exclusively in an invite-only event. Presented insights into the project's development process and code logic alongside the final gameplay.",
+    "description": "Engineered a Tetris-style game using Python with Arduino-based controls and hardware integrationPresented the system architecture and code logic in a showcase, receiving the Outstanding Project of ENGI 1020 Award.",
     "skills": ["Python", "Arduino"],
     "demo": "https://www.example.com",
     "source": "https://github.com/WilliamCW-Codes/Tetridunio"
@@ -35,7 +35,7 @@
   {
     "title": "Platformer Game (Personal)",
     "imageSrc": "projects/Platformer Project.jpg",
-    "description": "Created a JavaScript mini-game to enhance programming prowess. Engaged in coding challenges to hone skills while enjoying interactive learning.",
+    "description": "Programmed a 2D platformer using a JavaScript game engine to enhance object-oriented and game development skills.",
     "skills": ["JavaScript"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
@@ -43,7 +43,7 @@
   {
     "title": "AeroEvac",
     "imageSrc": "projects/Fulling Complete System.png",
-    "description": "Developed AeroEvac model, a pulley system for emergency evacuation, via OnShape. Collaborated on comprehensive project report encompassing cost, safety, and product analysis.",
+    "description": "Designed a pulley-based emergency evacuation system using CAD software to produce a functional 3D model. Documented a technical report detailing cost, safety, and design analysis for a client.",
     "skills": ["Onhape", "3D Modeling"],
     "demo": "https://www.example.com",
     "source model": "https://mun.onshape.com/documents/419f69e7cf6df73f9dcafde6/w/62118811ed2cc3cf59c4b5ae/e/e035e3af7dbbaf9f7ad3dd1f?renderMode=0&uiState=663d27ce10a1bf40795f072e"

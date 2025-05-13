@@ -101,16 +101,16 @@
     "imageSrc": "skills/canva.png"
   },
   {
+    "title": "Adobe Suite",
+    "imageSrc": "skills/adobe.png"
+  },
+  {
     "title": "Microsoft Suite",
     "imageSrc": "skills/ms.png"
   },
   {
     "title": "G Suite",
     "imageSrc": "skills/google.png"
-  },
-  {
-    "title": "Adobe Suite",
-    "imageSrc": "skills/adobe.png"
   },
   {
     "title": "OBS Studio",
