@@ -3,7 +3,7 @@ import React from "react";
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
-const resumeURL = "assets/hero/William_Cull-Whitten_Resume.pdf";
+const resumeURL = "hero/William_Cull-Whitten_Resume.pdf";
 
 export const Hero = () => {
   const downloadFileAtURL = (url) => {
@@ -25,7 +25,7 @@ export const Hero = () => {
           <a href="mailto:ccullwhitten@mun.ca" className={styles.contactBtn}>
             Contact Me
           </a>
-        <button onClick={() => downloadFileAtURL("/assets/hero/William_Cull-Whitten_Resume.pdf")}
+        <button onClick={() => downloadFileAtURL("hero/William_Cull-Whitten_Resume.pdf")}
             className={styles.resumeBtn}>Download Resume</button>
         </div>
       </div>
