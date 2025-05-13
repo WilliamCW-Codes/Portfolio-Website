@@ -9,7 +9,7 @@
   },
   {
     "title": "Assembly",
-    "imageSrc": "skills/assembly.svg"
+    "imageSrc": "skills/assembly.png"
   },
   {
     "title": "Python",
@@ -83,6 +83,10 @@
   {
     "title": "OnShape",
     "imageSrc": "skills/onshape.png"
+  },
+  {
+    "title": "3D Modeling",
+    "imageSrc": "skills/3d.png"
   },
   {
     "title": "3D Printing",
