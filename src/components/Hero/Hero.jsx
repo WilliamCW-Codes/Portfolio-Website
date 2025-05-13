@@ -9,14 +9,16 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hello World! <br /> My name is William</h1>
         <p className={styles.description}>
-        I’m a second year Computer Engineering student at Memorial University of Newfoundland (MUN).
+          I’m a second year Computer Engineering student at Memorial University of Newfoundland (MUN).
         </p>
-        <a href="mailto:ccullwhitten@mun.ca" className={styles.contactBtn}>
-          Contact Me
-        </a>
-        <a href="assets/hero/William Cull-Whitten Resume.pdf" className={`${styles.resumeBtn} ${styles.buttonGroup}`} download target="_blank" rel="noopener noreferrer">
+        <div className={styles.buttonGroup}>
+          <a href="mailto:ccullwhitten@mun.ca" className={styles.contactBtn}>
+            Contact Me
+          </a>
+          <a href="assets/hero/William Cull-Whitten Resume.pdf" className={styles.resumeBtn} download target="_blank" rel="noopener noreferrer">
             Download Resume
           </a>
+        </div>
       </div>
       <img
         src={getImageUrl("hero/will.jpeg")}
