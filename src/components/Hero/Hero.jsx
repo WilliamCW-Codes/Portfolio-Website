@@ -3,13 +3,13 @@ import React from "react";
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
-const resumeURL = "assets/hero/Resume.pdf";
+const resumeURL = "assets/hero/William_Cull-Whitten_Resume.pdf";
 
 export const Hero = () => {
   const downloadFileAtURL = (url) => {
     const aTag = document.createElement("a");
     aTag.href = url;
-    aTag.setAttribute("download", "Resume.pdf");
+    aTag.setAttribute("download", "William_Cull-Whitten_Resume.pdf");
     document.body.appendChild(aTag);
     aTag.click();
     document.body.removeChild(aTag);
@@ -25,7 +25,7 @@ export const Hero = () => {
           <a href="mailto:ccullwhitten@mun.ca" className={styles.contactBtn}>
             Contact Me
           </a>
-        <button onClick={() => downloadFileAtURL("/assets/hero/Resume.pdf")}
+        <button onClick={() => downloadFileAtURL("/assets/hero/William_Cull-Whitten_Resume.pdf")}
             className={styles.resumeBtn}>Download Resume</button>
         </div>
       </div>
