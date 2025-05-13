@@ -3,7 +3,8 @@ import React from "react";
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
-const resumeURL = "assets/hero/William Cull-Whitten Resume.pdf";
+const resumeURL = "localhost:3000/assets/hero/William Cull-Whitten Resume.pdf";
+// "assets/hero/William Cull-Whitten Resume.pdf";
 
 export const Hero = () => {
   const downloadFileAtURL = (url) => {
