@@ -5,7 +5,7 @@ import { getImageUrl } from "../../utils";
 import resume from "../assets/hero/WilliamCW_Resume.pdf";
 
 export const Hero = () => {
-  const resumeURL = "hero/WilliamCW_Resume.pdf";
+  const resumeURL = "/WilliamCW_Resume.pdf";
   // const downloadFileAtURL = (url) => {
   //   const aTag = document.createElement("a");
   //   aTag.href = url;
