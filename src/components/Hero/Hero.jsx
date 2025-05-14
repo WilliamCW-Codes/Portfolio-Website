@@ -5,24 +5,24 @@ import { getImageUrl } from "../../utils";
 import resume from "../assets/hero/WilliamCW_Resume.pdf";
 
 export const Hero = () => {
-  const resumeURL = "/WilliamCW_Resume.pdf";
-  // const downloadFileAtURL = (url) => {
+  // const resumeURL = "/WilliamCW_Resume.pdf";
+  // // const downloadFileAtURL = (url) => {
+  // //   const aTag = document.createElement("a");
+  // //   aTag.href = url;
+  // //   aTag.setAttribute("download", "WilliamCW_Resume.pdf");
+  // //   document.body.appendChild(aTag);
+  // //   aTag.click();
+  // //   document.body.removeChild(aTag);
+  // // };
+  //   const downloadFileAtURL = (url) => {
   //   const aTag = document.createElement("a");
   //   aTag.href = url;
   //   aTag.setAttribute("download", "WilliamCW_Resume.pdf");
   //   document.body.appendChild(aTag);
-  //   aTag.click();
+  //   const event = new MouseEvent("click", { bubbles: true, cancelable: true, view: window });
+  //   aTag.dispatchEvent(event);
   //   document.body.removeChild(aTag);
   // };
-    const downloadFileAtURL = (url) => {
-    const aTag = document.createElement("a");
-    aTag.href = url;
-    aTag.setAttribute("download", "WilliamCW_Resume.pdf");
-    document.body.appendChild(aTag);
-    const event = new MouseEvent("click", { bubbles: true, cancelable: true, view: window });
-    aTag.dispatchEvent(event);
-    document.body.removeChild(aTag);
-  };
   return (
     <section className={styles.container}>
       <div className={styles.content}>
@@ -34,8 +34,14 @@ export const Hero = () => {
           <a href="mailto:ccullwhitten@mun.ca" className={`${styles.contactBtn} ${styles.contactBtnHover}`}>
             Contact Me
           </a>
-        <button onClick={() => downloadFileAtURL(resumeURL)}
-            className={styles.resumeBtn}>Download Resume</button>
+          <a href="/William_Cull-Whitten_Resume.pdf" download target="_blank"
+            rel="noopener noreferrer" style={{ display: "inline-block", padding: "12px 24px",
+            backgroundColor: "#0070f3", color: "#fff", borderRadius: "8px", textDecoration: "none",
+            fontWeight: "bold"}}>Download Resume
+          </a>
+
+        {/* <button onClick={() => downloadFileAtURL(resumeURL)}
+            className={styles.resumeBtn}>Download Resume</button> */}
         </div>
       </div>
       <img
