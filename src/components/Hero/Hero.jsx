@@ -34,15 +34,17 @@ export const Hero = () => {
           <a href="mailto:ccullwhitten@mun.ca" className={`${styles.contactBtn} ${styles.contactBtnHover}`}>
             Contact Me
           </a>
-          <a href="/William_Cull-Whitten_Resume.pdf" download target="_blank"
+          {/* <a href="/William_Cull-Whitten_Resume.pdf" download target="_blank"
             rel="noopener noreferrer" style={{ display: "inline-block", padding: "12px 24px",
             backgroundColor: "#0070f3", color: "#fff", borderRadius: "8px", textDecoration: "none",
             fontWeight: "bold"}}>Download Resume
-          </a>
-
+          </a> */}
         {/* <button onClick={() => downloadFileAtURL(resumeURL)}
             className={styles.resumeBtn}>Download Resume</button> */}
-        </div>
+        
+        </div> <!-- Elfsight PDF Embed | Untitled PDF Embed -->
+          <script src="https://static.elfsight.com/platform/platform.js" async></script>
+        <div class="elfsight-app-3f37595f-fdee-47fc-89a0-0a1a7b665589" data-elfsight-app-lazy></div>
       </div>
       <img
         src={getImageUrl("hero/will.jpeg")}
