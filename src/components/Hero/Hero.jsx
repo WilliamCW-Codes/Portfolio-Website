@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
-import resume from "../assets/hero/WilliamCW_Resume.pdf";
+// import resume from "../assets/hero/WilliamCW_Resume.pdf";
 
 export const Hero = () => {
   // const resumeURL = "/WilliamCW_Resume.pdf";
