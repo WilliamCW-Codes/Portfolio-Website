@@ -42,9 +42,10 @@ export const Hero = () => {
         {/* <button onClick={() => downloadFileAtURL(resumeURL)}
             className={styles.resumeBtn}>Download Resume</button> */}
         
-        </div>
-          <script src="https://static.elfsight.com/platform/platform.js" async></script>
+        
+        <script src="https://static.elfsight.com/platform/platform.js" async></script>
         <div class="elfsight-app-3f37595f-fdee-47fc-89a0-0a1a7b665589" data-elfsight-app-lazy></div>
+      
       </div>
       <img
         src={getImageUrl("hero/will.jpeg")}
